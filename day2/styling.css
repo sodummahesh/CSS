@@ -1,0 +1,82 @@
+.body{
+    font-family: sans-serif;
+}
+.container{
+    width: 250px;
+    border: 1px solid lightgray;
+    margin: 60px auto;
+    padding: 5px;
+    border-radius: 6px;
+   
+}
+.food{
+    width: 100%;
+    height: 150px;
+    border-radius: 6px;
+
+}
+.pic{
+        position: relative;
+        margin-bottom: -20px;
+
+
+}
+.promo{
+    position: absolute;
+    top: 5px;;
+    left: 5px;
+    background: transparent ;
+    border: none;
+    background-color: rgb(134, 122, 122);
+    color: rgb(241, 235, 235);
+    padding: 2px 4px;
+    font-size: 8px;
+    border-radius: 4px;
+}
+
+.off{
+    position: absolute;
+    bottom:9px;
+    left: 0px;
+    border: none;
+    background-color: rgb(81, 81, 218);
+    color: rgb(243, 245, 247);
+    padding: 2px 4px;
+    box-sizing: cover;
+    font-size: 12px;
+
+}
+.time{
+    position: absolute;
+    bottom: 9px;
+    right: 5px;
+    border: none;
+    background-color: aliceblue;
+    color: rgb(34, 30, 30);
+    font-size: 10px;
+    padding: 3px;
+    border-radius: 6px;
+
+}
+
+.logo{
+    width:45px;
+    height: 15px;
+    object-fit: contain;
+    
+    
+}
+
+
+.mtr{
+    color:rgb(73, 68, 68);
+    margin-bottom: none;
+    margin-bottom: -15px;
+    margin-top: -17px;
+    font-size: 14px;
+}
+
+.cc{
+ font-size: small;
+ color: rgb(73, 68, 68);
+}

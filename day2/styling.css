@@ -80,3 +80,49 @@
  font-size: small;
  color: rgb(73, 68, 68);
 }
+
+.image{
+    border: 0px solid black;
+    margin:60px auto;
+    width: 650px;
+    
+    
+    
+}
+.nature{
+    width:100%;
+    height: 350px;
+    border-radius: 14px;
+    object-fit: cover;
+}
+
+.pts{
+ position: relative;
+}
+.ex{
+    position: absolute;
+    top:100px;
+    left:150px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.mtr2{
+position: absolute;
+top:150px;
+left:40px;
+color:rgb(255, 255, 255);
+font-size: 20px;
+
+
+
+}
+.btn2{
+    position: absolute;
+    top:230px;
+    left:250px;
+    border-radius: 20px;
+    border: none;
+    padding: 10px 14px ;
+
+}
